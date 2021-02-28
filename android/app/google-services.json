@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660152753982",
+    "project_id": "campus-recruitment-syste-4ef49",
+    "storage_bucket": "campus-recruitment-syste-4ef49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660152753982:android:e6d788eaa27339e766966f",
+        "android_client_info": {
+          "package_name": "com.reactnativeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660152753982-jkj1pf86ofn9lqvor30ijl4e8sllgttc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfbiBy-uLgpn4uOF7p5XqRJiXZdNh0pNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660152753982-jkj1pf86ofn9lqvor30ijl4e8sllgttc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
